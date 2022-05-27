@@ -1,0 +1,40 @@
+
+.secondpart-parent{
+    max-width: 100%;
+}
+.secondpart-inner {
+    background-color: #fff;
+    height: 100px;
+    position: relative;
+}
+
+.secondpart-yellow-back-img{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
+.secondpart-img{
+    z-index: 10;
+}
+
+.secondpart-background{
+    background-color:#fbffa7;
+}
+
+.secondpart-back-img{
+    padding-top: 6.5rem;
+}
+
+.secondpart-max-width{
+    max-width: 100%;
+}
+
+.secondpart-greenone{
+    background-color: #B6FFC0;
+    height: 700px;
+}
+
+.secondpart-img-width{
+    width: 35%;
+}
