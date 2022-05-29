@@ -51,16 +51,31 @@ const SecondPart = () =>{
                 </div>
             </div>
             <div className={"row d-flex secondpart-max-width mt-5"}>
-                <div className={"col-7 secondpart-greenone "}>
-                    <div className={"d-block mt-5 secondpart-img-width h-50 m-auto"}>
+                <div className={"col-7 secondpart-greenone  "}>
+                    <div className={"mt-5 secondpart-img-width h-50 m-auto"}>
                         <img src={first_cmp} className={"img-fluid"}/>
                     </div>
-                    <div className={"d-block secondpart-img-width h-50 m-auto"}>
+                    <div className={"secondpart-img-width seconpart-base h-50 m-auto"}>
                         <img src={first_cmp} className={"img-fluid"}/>
                     </div>
                 </div>
-                <div className={"secondpart-inner h-100 col-5"}>
+                <div className={"secondpart-overlay col-5"}>
                     <img src={first_cmp} className={"img-fluid secondpart-img w-100 h-100"}/>
+                </div>
+            </div>
+            <div className="row secondpart-max-width mt-5 justify-content-center">
+                <div className="col-5 ">
+                    <p className={"fw-bold "}>
+                        We believe it takes focus to create truly outstanding instruments. We only work on
+                        a few products and we strive to make them great.
+                    </p>
+                    <p>
+                        Rather than having a one-size-fits-all process,
+                        we try to give our people what they need to work their magic and grow.
+                        We’ve learned that achieving the best results comes from building teams that are richly diverse,
+                        and thus able to explore problems from a wider set of perspectives.
+                        We don’t always agree with each other, but opinion and debate are valued and openly encouraged.
+                    </p>
                 </div>
             </div>
         </>
