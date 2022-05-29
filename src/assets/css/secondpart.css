@@ -32,9 +32,20 @@
 
 .secondpart-greenone{
     background-color: #B6FFC0;
-    height: 700px;
+    height: auto;
+    min-height:700px;
 }
 
 .secondpart-img-width{
     width: 35%;
+}
+
+.seconpart-base{
+    position: relative;
+}
+
+.secondpart-overlay{
+    position: absolute;
+    left:47%;
+    margin-top: 6rem !important;
 }
