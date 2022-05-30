@@ -77,6 +77,25 @@ const SecondPart = () =>{
                         We don’t always agree with each other, but opinion and debate are valued and openly encouraged.
                     </p>
                 </div>
+                <div className={"mt-5"}>
+                    <img src={first_cmp} className={"img-fluid secondpart-img w-75 test h-100"}/>
+                </div>
+            <br/>
+                <div className="col-5 mt-5">
+                    <p className={"fw-bold "}>
+                        We’re passionate about what we do, but we’re equally passionate about improving who we are.
+                    </p>
+                    <p>
+                        We work hard to foster an environment where people can grow both personally and professionally,
+                        and we strive to create a wealth of opportunities to learn from and with each other.
+                        <br/><br/>
+
+                        Alongside an internal training program, employees are actively supported in acquiring new
+                        knowledge and skills, and coached on applying these in their daily work. In addition,
+                        staff-organized development and music salons are a chance to discuss new technologies,
+                        production techniques and best practices.
+                    </p>
+                </div>
             </div>
         </>
     )

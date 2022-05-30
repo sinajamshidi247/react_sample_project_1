@@ -49,3 +49,8 @@
     left:47%;
     margin-top: 6rem !important;
 }
+
+.test{
+    display: block;
+    margin: 0 auto;
+}
