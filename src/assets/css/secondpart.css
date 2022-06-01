@@ -50,7 +50,58 @@
     margin-top: 6rem !important;
 }
 
-.test{
+.secondpart-img-center{
     display: block;
     margin: 0 auto;
+}
+.seconpart-purple-background{
+    background-color:
+            #d5b3ff ;
+    height: auto;
+    min-height: 600px;
+    position: relative;
+}
+
+.test{
+    z-index: 10;
+    position: absolute;
+}
+
+
+.fuck{
+    right: 0 !important;
+    margin-top:4rem;
+    height: auto;
+    min-height: 200px;
+}
+
+.boobs{
+    left: 12%;
+    margin-top:7rem;
+    height: auto;
+    min-height: 400px;
+}
+
+.secondpart-blue-one{
+    background-color: #b1c5ff;
+}
+
+.secondpart-white-text{
+    color: #ffffff;
+    font-size: large;
+}
+
+.seconpart-blue-child{
+    display: table;
+    height: 400px;
+    overflow: hidden;
+}
+.seconpart-blue-child{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.secondpart-blue-text{
+    color: #0000ff;
+    font-weight: bold;
 }
